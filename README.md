@@ -10,6 +10,7 @@ This Worked for me.
 
 **Run This Programm**
 -----------------------------------
+- Open Individual Python Console For Each User
 - ./Simon's Server>python server.py [For Running The Server]
 - ./Simon's Server>python client.py [For Running 1st Client]
 - ./Simon's Server>python client.py [For Running 2nd Client]
@@ -17,9 +18,7 @@ This Worked for me.
 -  .................
 - ./Simon's Server>python client.py [For Running n th Client]
 
-
 ![](Simon's%20Server/Data/screenshot.png)
-
 
 **Command And Log In**
 ------------------------------------
