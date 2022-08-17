@@ -24,5 +24,11 @@ This Worked for me.
 - Group Chatting Is The Default Feature But A User Wants To Direct Message Another User S/He Must Use This Command ['Message' /'Receiver']. (eg. [How Are You? /Alice]). If The Receiver Is Online In Server, S/He Will Receive The Direct Message.
 - Only Admin Can Kick Or Ban A Client. The Command For This Action Is [/kick 'Target Client'] And ['/ban 'Terget User']. (eg. /ban Charlie or /kick Charlie)
 - Once A Client Is Kicked Out By Admin S/He Will Be Removed From The Server. But S/He Can Rejoin Later.
-- If A Clienet Is Banned, His/Her Email Will Be Stored At 'list_of_bans.csv' So That S/He Can Not Enter Server In Future
+- If A Clienet Is Banned, His/Her Email Will Be Stored At 'list_of_bans.csv' So That S/He Can Not Enter Server In Future.
+
+**Bugs**
+------------------------
+- Python Does Not Perform Well With Multithreading.
+- When A User Get Kicked Out Or Banned By Admin Just After S/Her Direct Messaged Someone, That User willed Kicked Out But His/Her Console Will Show Infinite Scroll.
+- If Admin Left The Server Before Other Clients, That Server Console Will Show A Error.
  
