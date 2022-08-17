@@ -1,4 +1,4 @@
-# A-Multithreaded-TCP-Chat-Room-with-Group_Message-Direct_Message-Kick-and-Ban-Users-Features
+# A-Multithreaded-TCP-Chat-Room-with-Group_Message-Direct_Message-Kick-and-Ban-User-Feature
 
 **smtp_email_server.py**
 ------------------------------------
