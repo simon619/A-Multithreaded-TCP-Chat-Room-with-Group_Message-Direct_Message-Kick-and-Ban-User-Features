@@ -22,8 +22,8 @@ This Worked for me.
 
 **Command And Log In**
 ------------------------------------
-- If Your Are A Admin Then You Must Have Log In With Your Name, Email and Password. Your Password Is Stored At 'password.txt' And Name, Email Is Store In 'Info.csv' File As Defualt User.
-- A Normal User Have To Enter His/Her Name And Email To Log In The Server. If The Email of A User Is Not Stored In 'info.csv' Then S/He Will Be Greeted As A New User.
+- If Your Are A Admin Then You Must Have Log In With Your Name, Email and Password. Your Password Is Stored At 'password.txt' And Name, Email Is Stored In 'Info.csv' File As Defualt User.
+- A Normal User Have To Enter His/Her Name And Email To Log In The Server. If The Email of An User Is Not Stored In 'info.csv' Then S/He Will Be Greeted As A New User.
 - Group Chatting Is The Default Feature But A User Wants To Direct Message Another User S/He Must Use This Command ['Message' /'Receiver']. (eg. [How Are You? /Alice]). If The Receiver Is Online In Server, S/He Will Receive The Direct Message.
 - Only Admin Can Kick Or Ban A Client. The Command For This Action Is [/kick 'Target Client'] And ['/ban 'Terget User']. (eg. /ban Charlie or /kick Charlie)
 - Once A Client Is Kicked Out By Admin S/He Will Be Removed From The Server. But S/He Can Rejoin Later.
