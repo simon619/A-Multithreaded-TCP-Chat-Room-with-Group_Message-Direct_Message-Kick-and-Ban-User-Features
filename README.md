@@ -17,7 +17,9 @@ This Worked for me.
 -  .................
 - ./Simon's Server>python client.py [For Running n th Client]
 
+
 ![](Simon's%20Server/Data/screenshot.png)
+
 
 **Command And Log In**
 ------------------------------------
