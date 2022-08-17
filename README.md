@@ -20,7 +20,7 @@ This Worked for me.
 
 ![](Simon's%20Server/Data/screenshot.png)
 
-**Command And Log In**
+**Commands And Log In**
 ------------------------------------
 - If Your Are A Admin Then You Must Have Log In With Your Name, Email and Password. Your Password Is Stored At 'password.txt' And Name, Email Is Stored In 'Info.csv' File As Defualt User.
 - A Normal User Have To Enter His/Her Name And Email To Log In The Server. If The Email of An User Is Not Stored In 'info.csv' Then S/He Will Be Greeted As A New User.
