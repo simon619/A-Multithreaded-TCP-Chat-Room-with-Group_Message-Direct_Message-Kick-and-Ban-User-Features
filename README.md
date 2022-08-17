@@ -5,6 +5,7 @@
 - Your Must Have To Turn on 2-Step Verification On Your Gmail Account. (Log in -> Google Account -> Security -> Signing in to Google => 2-step Verification)
 - Then Go To App Passwords. (Log in -> Google Account -> Security -> Signing in to Google => App passwords)
 - Go To Select App (Pick 'other (customer name)') Then Type 'server = smtplib.SMTP_SSL('smtp.gmail.com', 465)'.
+- Use The Generated Password As Your Gmail Password
 
 This Worked for me.
 
