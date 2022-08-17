@@ -10,7 +10,7 @@ This Worked for me.
 
 **Run This Programm**
 -----------------------------------
-- ./Simon's Server>python server.py [For Running The Serever]
+- ./Simon's Server>python server.py [For Running The Server]
 - ./Simon's Server>python client.py [For Running 1st Client]
 - ./Simon's Server>python client.py [For Running 2nd Client]
 - ./Simon's Server>python client.py [For Running 3rd Client]
